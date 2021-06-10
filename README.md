@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JosephOuellette
-- 👀 I’m interested in learning coding and programming languages. I know some Java and SQL Server but want to learn more
+- 👀 I’m interested in learning coding and programming languages. I know Java, Python and SQL but want to learn more
 - 🌱 I’m currently learning Linux on a Raspberry Pi 4
 - 💞️ I’m looking to collaborate on websites and mobile apps. 
-- 📫 How to reach me: joseph.ouellette@protonmail.com 
-- 
+- 📫 How to reach me: joseph.ouellette@pm.me 
 Or send me a secure message using GPG
 
 - -----BEGIN PGP PUBLIC KEY BLOCK-----
